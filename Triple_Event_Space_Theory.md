@@ -1090,52 +1090,46 @@ Wheeler, J. A., & Zurek, W. H. (1983). Quantum Theory and Measurement.
 Bohr, N. (1935). "Can Quantum-Mechanical Description of Physical Reality be Considered Complete?" Phys. Rev.
 
 
- 10. Shannon, C. E. (1948). "A Mathematical Theory of Communication." Bell 
-
-
+Shannon, C. E. (1948). "A Mathematical Theory of Communication." Bell 
  System Technical Journal.
 
 
- 11. Rovelli, C. (1996). "Relational Quantum Mechanics." Int. J. Theor. Phys.
+Rovelli, C. (1996). "Relational Quantum Mechanics." Int. J. Theor. Phys.
 
 
-12. Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the 
+Barad, K. (2007). Meeting the Universe Halfway: Quantum Physics and the 
 
 
- Entanglement of Matter and Meaning.
+Entanglement of Matter and Meaning.
 
 
-13. Y. Aharonov, S. Popescu, and J. Tollaksen, "A time-symmetric formulation of 
-
-
+Y. Aharonov, S. Popescu, and J. Tollaksen, "A time-symmetric formulation of 
  quantum mechanics," Physics Today, 2009.
 
 
-14. R. Penrose, The Road to Reality, 2004.
+R. Penrose, The Road to Reality, 2004.
 
 
-15. D. Bohm, Wholeness and the Implicate Order, 1980.
+D. Bohm, Wholeness and the Implicate Order, 1980.
 
 
-16. T. K. Das, "Entropy and Time's Arrow: A Relational Perspective," Entropy, 
-
-
+T. K. Das, "Entropy and Time's Arrow: A Relational Perspective," Entropy, 
  2020.
 
 
-17 May. J. P. (1999) Simplicial Objects in Algebraic Topology
+May. J. P. (1999) Simplicial Objects in Algebraic Topology
 
 
-18 Susskind. L. (2016) Black Holes and Complexity Classes
+Susskind. L. (2016) Black Holes and Complexity Classes
 
 
-19 Hardy, G.H., & Wright, E.M. (2008). An Introduction to the Theory of Numbers. Oxford University Press.
+Hardy, G.H., & Wright, E.M. (2008). An Introduction to the Theory of Numbers. Oxford University Press.
 
 
-20 Conway, J.H., & Smith, D.A. (2003). On Quaternions and Octonions: Their Geometry, Arithmetic, and Symmetry. A K Peters.
+Conway, J.H., & Smith, D.A. (2003). On Quaternions and Octonions: Their Geometry, Arithmetic, and Symmetry. A K Peters.
 
 
-21 Penrose, R. (2004). The Road to Reality: A Complete Guide to the Laws of the Universe. Jonathan Cape.
+Penrose, R. (2004). The Road to Reality: A Complete Guide to the Laws of the Universe. Jonathan Cape.
 
 
 
